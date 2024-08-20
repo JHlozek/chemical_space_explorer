@@ -1,0 +1,7 @@
+rdkit-pypi
+numpy==1.26.4
+bokeh
+umap-learn
+pca
+scikit-image
+pandas
